@@ -1,0 +1,4 @@
+app_id|name|dob|emp_status|income|monthly_outgoing|accounts
+A1234|Joe Bloggs|21/05/1977|Employed|25000|[{"metadata":[{"Expense_Type":"string"},{"Amount":"double"}]},{"data":[["Mortgage",900],["Utility Bills",150]]}]|[{"metadata":[{"Account_No":"string"},{"Account_Type":"string"},{"Balance":"double"}]},{"data":[["9873948","CC",800]]}]
+B2345|Ann Bolen|11/04/1996|Unemployed|0.00|[{"metadata":[{"Expense_Type":"string"},{"Amount":"double"}]},{"data":[["Mortgage",900],["Utility Bills",150]]}]|[{"metadata":[{"Account_No":"string"},{"Account_Type":"string"},{"Balance":"double"}]},{"data":[["9873948","CC",800]]}]
+C3456|Too Many Cards|18/01/2000|Self-Employed|35000|[{"metadata":[{"Expense_Type":"string"},{"Amount":"double"}]},{"data":[["Mortgage",1100],["Utility Bills",200],["Groceries",250]]}]|[{"metadata":[{"Account_No":"string"},{"Account_Type":"string"},{"Balance":"double"}]},{"data":[["9873948","CC",800],["9367","CC",0],["17137","CC",1200]]}]
